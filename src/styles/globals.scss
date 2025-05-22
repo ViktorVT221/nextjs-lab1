@@ -1,0 +1,16 @@
+// styles/globals.scss
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Твої додаткові стилі SCSS */
+
+/* Приклад базових стилів */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+/* Можеш додати свої змінні, міксіни пізніше */
